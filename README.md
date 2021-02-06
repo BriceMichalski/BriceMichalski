@@ -2,10 +2,9 @@
 
 ![Become better](https://img.shields.io/badge/Become%20better-work%20in%20progress%20..-blue) ![](https://img.shields.io/badge/Invent%20something-I%20search%20THE%20idea-blue)
 
-
 ## About me
 
-- 🇫🇷 I'm French (and proud)
+- 🇫🇷 I'm French since 1995 (and proud)
 - 🎓 I'm Studient at [Lyon Ynov Campus](https://www.ynov.com/campus/lyon/)
 - 👔 Work at IT branch of the [Carrefour](https://www.carrefour.com/) group as DevOps apprentice
 
@@ -21,3 +20,18 @@
 | Proof of Concept Repositories  | Student Repositories  |
 |:-:|:-:|
 |  [![Proof of Concept Repositories](https://avatars.githubusercontent.com/u/78642231?s=100&v=4)](https://github.com/BriceMichalskiPoc) | [![Student Repositories](https://avatars.githubusercontent.com/u/78641547?s=100&v=4)](https://github.com/BriceMichalskiStudent)  |
+
+## Languages and Tools
+
+<p align="left">
+    <img style="margin:10px;"src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1200px-Ansible_logo.svg.png" alt="ansible" width="60" height="70"/>
+    <img style="margin:10px;"src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="Jenkins" width="60" height="70"/>
+    <img style="margin:10px;"src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="60" height="70"/>
+    <img style="margin:10px;"src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="K8S" width="60" height="70"/>
+    <img style="margin:10px;"src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="Symfony" width="60" height="70"/>
+    <img style="margin:10px;"src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="60" height="70"/>
+    <img style="margin:10px;"src="https://cdn.worldvectorlogo.com/logos/vagrant.svg" alt="Vagrant" width="60" height="70"/>
+    <img style="margin:10px;"src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux" width="60" height="70"/>
+    <img style="margin:10px;"src="https://cdn.worldvectorlogo.com/logos/grafana.svg" alt="Grafana" width="60" height="70"/>
+    <img style="margin:10px;"src="https://cdn.worldvectorlogo.com/logos/influxdb.svg" alt="Influxdb" width="60" height="70"/>
+</p>
