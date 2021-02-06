@@ -1,5 +1,8 @@
 # I'm Brice Michalski, welcome to my github
 
+![Become better](https://img.shields.io/badge/Become%20better-work%20in%20progress%20..-blue) ![](https://img.shields.io/badge/Invent%20something-I%20search%20THE%20idea-blue)
+
+
 ## About me
 
 - 🇫🇷 I'm French (and proud)
