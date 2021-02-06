@@ -24,8 +24,9 @@
 ## Languages and Tools
 
 <p align="left">
-    <img style="margin:10px;"src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1200px-Ansible_logo.svg.png" alt="ansible" width="60" height="70"/>
-    <img style="margin:10px;"src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="Jenkins" width="60" height="70"/>
+    <img style="margin:10px;"src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="ansible" width="60" height="70"/>
+    <img style="margin:10px;"src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="ansible" width="60" height="70"/>
+    <img style="margin:10px;"src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="Jenkins" width="60" height="70"/>
     <img style="margin:10px;"src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="60" height="70"/>
     <img style="margin:10px;"src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="K8S" width="60" height="70"/>
     <img style="margin:10px;"src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="Symfony" width="60" height="70"/>
@@ -34,4 +35,5 @@
     <img style="margin:10px;"src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux" width="60" height="70"/>
     <img style="margin:10px;"src="https://cdn.worldvectorlogo.com/logos/grafana.svg" alt="Grafana" width="60" height="70"/>
     <img style="margin:10px;"src="https://cdn.worldvectorlogo.com/logos/influxdb.svg" alt="Influxdb" width="60" height="70"/>
+    <img style="margin:10px;"src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="vscode" width="60" height="70"/>
 </p>
