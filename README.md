@@ -9,11 +9,11 @@
 - 🎓 I'm Studient at [Lyon Ynov Campus](https://www.ynov.com/campus/lyon/)
 - 👔 Work at IT branch of the [Carrefour](https://www.carrefour.com/) group as DevOps apprentice
 
-I'm passionate about :
+**I'm passionate about :**
+
 - ⚽ Footbal (We are still world champion)
 - 🚀 Space
-- 🛰 New technologies
-- 🔬 Sciences
+- 🛰 Sciences & New technologies
 - 💻 Computers (of course)
 
 ## My Repositories
