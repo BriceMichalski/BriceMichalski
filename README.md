@@ -1,16 +1,20 @@
-### Hi there 👋
+# I'm Brice Michalski, welcome to my github
 
-<!--
-**BriceMichalski/BriceMichalski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- 🇫🇷 I'm French (and proud)
+- 🎓 I'm Studient at [Lyon Ynov Campus](https://www.ynov.com/campus/lyon/)
+- 👔 Work at IT branch of the [Carrefour](https://www.carrefour.com/) group as DevOps apprentice
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about :
+- ⚽ Footbal (We are still world champion)
+- 🚀 Space
+- 🛰 New technologies
+- 🔬 Sciences
+- 💻 Computers (of course)
+
+## My Repositories
+
+| Proof of Concept Repositories  | Student Repositories  |
+|:-:|:-:|
+|  [![Proof of Concept Repositories](https://avatars.githubusercontent.com/u/78642231?s=100&v=4)](https://github.com/BriceMichalskiPoc) | [![Student Repositories](https://avatars.githubusercontent.com/u/78641547?s=100&v=4)](https://github.com/BriceMichalskiPoc)  |
