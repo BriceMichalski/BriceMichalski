@@ -15,12 +15,6 @@
 - 🛰 Sciences & New technologies
 - 💻 Computers (of course)
 
-## My Repositories
-
-| Proof of Concept Repositories  | Student Repositories  |
-|:-:|:-:|
-|  [![Proof of Concept Repositories](https://avatars.githubusercontent.com/u/78642231?s=100&v=4)](https://github.com/BriceMichalskiPoc) | [![Student Repositories](https://avatars.githubusercontent.com/u/78641547?s=100&v=4)](https://github.com/BriceMichalskiStudent)  |
-
 ## Languages and Tools
 
 <p align="left">
