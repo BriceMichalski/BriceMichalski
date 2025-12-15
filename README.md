@@ -6,7 +6,7 @@
 
 - 🇫🇷 I'm French since 1995 (and proud)
 - 🎓 Alumni of the [Lyon Ynov Campus](https://www.ynov.com/campus/lyon/)
-- 👔 DevOps Architect at oneup.com
+- 👔 DevOps Architect at [oneup.com](https://www.oneup.com/)
 
 **I'm passionate about :**
 
