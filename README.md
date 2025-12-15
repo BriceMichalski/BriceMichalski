@@ -6,7 +6,7 @@
 
 - 🇫🇷 I'm French since 1995 (and proud)
 - 🎓 Alumni of the [Lyon Ynov Campus](https://www.ynov.com/campus/lyon/)
-- 👔 Work at IT branch of the [Carrefour](https://www.carrefour.com/) group as DevOps Engineer
+- 👔 DevOps Architect at oneup.com
 
 **I'm passionate about :**
 
