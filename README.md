@@ -4,7 +4,7 @@
 
 ## About me
 
-- 🇫🇷 I'm French since 1995 (and proud)
+- 🇫🇷 I'm French since 1995
 - 🎓 Alumni of the [Lyon Ynov Campus](https://www.ynov.com/campus/lyon/)
 - 👔 DevOps Architect at [oneup.com](https://www.oneup.com/)
 
@@ -13,7 +13,8 @@
 - ⚽ Footbal (We are still world champion)
 - 🚀 Space
 - 🛰 Sciences & New technologies
-- 💻 Computers (of course)
+- 💻 Self-hosting 
+
 
 ## Languages and Tools
 
