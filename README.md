@@ -10,8 +10,8 @@
 
 **I'm passionate about :**
 
-- ⚽ Footbal (We are still world champion)
-- 🚀 Space
+- ⚽ Footbal
+- 🚀 Space & engineering
 - 🛰 Sciences & New technologies
 - 💻 Self-hosting 
 
